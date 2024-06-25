@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="title_activity_drawer_activity">DrawerActivity</string>
+    <string name="nav_header_title">Blog App</string>
+    <string name="nav_header_subtitle">FoodBen</string>
+    <string name="default_web_client_id">580359892184-bjq7tepnosaeqbo935745s3ra9njjdjo.apps.googleusercontent.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Publish Blog</string>
+    <string name="menu_slideshow">Profile</string>
+    <string name="home">Home</string>
+    <string name="publish_blog">Publish Blog</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example_mail">abcd@gmail.com</string>
+    <string name="example_name">Sample Name</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="select_an_image">Select an Image!!</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="author_name">Author Name</string>
+    <string name="btn_publish">PUBLISH</string>
+    <string name="example_blog">this blog post is created in android blog app created in 3 vidos of 1 series and you can find all the videos in the playlist section of our channel</string>
+    <string name="example_title">This is the sample title for the demo</string>
+    <string name="example_author">by Ezio</string>
+</resources>
